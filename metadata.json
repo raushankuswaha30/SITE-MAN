@@ -1,0 +1,6 @@
+{
+  "name": "SITE MAN",
+  "description": "Enterprise AI-Powered Construction & Site Management Application with Voice AI, Bill Scanner, and Universal Auto-Fill",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
